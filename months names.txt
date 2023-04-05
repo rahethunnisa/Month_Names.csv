@@ -1,0 +1,13 @@
+months names
+1.january-sankranthi
+2.febraury-maha sivarathri
+3.march-holi
+4.april-good friday
+5.may-yoga day
+6.june-summer
+7.july-bestie birthday
+8.august-raksha bandhan
+9.september-teachers day
+10.october-navarathri
+11.november-childrens day
+12.december-christmas
